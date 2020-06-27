@@ -1,5 +1,5 @@
 ## 📲 Scan dos dados do cartão de credito.
----
+
 ## 🔖 Sobre.
 **Feature** feita para facilitar a forma de pagamento de apps futuros, para que o usuário não tenha que digitar os dados do cartão.
 
